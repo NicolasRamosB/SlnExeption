@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medico", "Medico\Medico.csproj", "{0C0E8E11-CEEF-4C9D-A409-4A53A98BFC8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{93BE47B1-67A0-4341-B425-2589295D0E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C0E8E11-CEEF-4C9D-A409-4A53A98BFC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0E8E11-CEEF-4C9D-A409-4A53A98BFC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0E8E11-CEEF-4C9D-A409-4A53A98BFC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0E8E11-CEEF-4C9D-A409-4A53A98BFC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93BE47B1-67A0-4341-B425-2589295D0E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BE47B1-67A0-4341-B425-2589295D0E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BE47B1-67A0-4341-B425-2589295D0E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BE47B1-67A0-4341-B425-2589295D0E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43DBE903-4D6B-471A-ACB9-2694FA7077D8}
+	EndGlobalSection
+EndGlobal
