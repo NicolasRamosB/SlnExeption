@@ -21,12 +21,13 @@ namespace WindowsFormsApp1
 
         private void btnMedico_Click(object sender, EventArgs e)
         {
-         
+            Medico medico = new Medico();
+            medico.Nombre = " NICOLAS RAMOS ";
             try
             {
-                Medico medico = new Medico(" Nicolas Ramos ");
+
                 MessageBox.Show(medico.Nombre);
-                
+
             }
             catch (Exception ex)
             {
